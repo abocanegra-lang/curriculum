@@ -97,6 +97,11 @@ nav a {
   font-weight: 500;
 }
 
+nav .boton {
+  margin-top: 0;
+  padding: 8px 18px;
+}
+
 nav a:hover {
   border-color: var(--amber);
 }
